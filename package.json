@@ -1,0 +1,22 @@
+{
+  "name": "algorithom",
+  "version": "1.0.0",
+  "description": "This is a algorithom learning project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arif32-dev/Algorithms.git"
+  },
+  "author": "AR Arif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arif32-dev/Algorithms/issues"
+  },
+  "homepage": "https://github.com/Arif32-dev/Algorithms#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
